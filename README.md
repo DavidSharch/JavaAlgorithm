@@ -2,10 +2,9 @@
 
 ## 01-线性表、哈希表及字符串-9节
 1-数组：实现整数的数字反转-81m
-    - ReverseInteger 7
-    - atoi 8
+    - https://leetcode.cn/problems/reverse-integer/
 2-链表+数学：两数相加-73m
-    - 2 /add-two-numbers/
+    - https://leetcode.cn/problems/add-two-numbers/
 3-栈：删除最外层的括号-98m
     - https://leetcode.cn/problems/remove-outermost-parentheses/
 4-队列：最近的请求次数-83m
@@ -27,7 +26,9 @@
 2-递归+排序：特殊的二进制序列-64m
     - https://leetcode.cn/problems/special-binary-string/
 3-分治算法：排序矩阵查找-49m
+    - https://leetcode.cn/problems/sorted-matrix-search-lcci/
 4-归并排序+二分查找：寻找两个正序数组中的中位数-68m
+    - https://leetcode.cn/problems/median-of-two-sorted-arrays/
 5-贪心算法：行相等的最少多米诺旋转-50m
 6-栈+贪心：去除重复字母-69m
 

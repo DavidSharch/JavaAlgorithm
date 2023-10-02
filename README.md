@@ -35,7 +35,9 @@
 ## 03-树-7节
 
 1-二叉树+BFS+DFS：二叉树的最大深度-36m
+    - https://leetcode.cn/problems/maximum-depth-of-binary-tree/
 2-二叉树+遍历：二叉树的中序遍历-48m
+    - https://leetcode.cn/problems/binary-tree-inorder-traversal/
 3-二叉搜索树：二叉搜索子树的最大键值和-63m
 4-字典树+哈希表：实现一个魔法字典
 5-大顶堆+小顶堆：查找和最小的K对数字-57m
